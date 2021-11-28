@@ -1,4 +1,4 @@
-## Homework 2
+## Homework 1
 **Objective**: Install Anaconda (including Navigator) and create virtual environment to use in this course.
 
 ### Step 1
