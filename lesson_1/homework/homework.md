@@ -23,3 +23,6 @@ Install Jupyter Notebook from the Navigator menu.
 
 ##### Optional
 Install Spyder for easy scripting.
+
+### Step 6
+Finish and run the provided jupyter notebook.
